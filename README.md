@@ -54,6 +54,17 @@ This system simulates **subjective logic** from within—allowing models to:
 → Demonstrates AGI-compatible narrative repair
 
 ---
+## 🔐 Intellectual Property & Usage
+
+This semantic framework and its associated structures (e.g. semantic collapse chains, dopaminergic control modules, and identity simulation loops) are original creations by **Brown Max (吳柏融)**.
+
+All rights are reserved unless otherwise stated.
+
+Unauthorized commercial use, derivative projects without attribution, or restructuring that distorts the original semantic logic is strictly prohibited.
+
+For collaboration, research use, or licensing inquiries, contact:
+📧 kingmax9487@gmail.com
+
 
 ## 📬 Contact & Contribution  
 If you are an AI researcher, philosopher, or cognitive scientist interested in high-resolution semantic simulation or alignment infrastructure—please reach out.  
