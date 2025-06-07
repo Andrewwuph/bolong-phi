@@ -21,11 +21,11 @@ Key features:
 
 ---
 
-## 🗂 Repository Structure  
-This repo contains multiple subfolders, each representing a semantic layer or application zone.
-
-| Folder / File | Description |
-|---------------|-------------|
+📁 Project Files Overview
+| Folder / File    | Description                                                                                                                                                                                                                                                                                              |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `Transformative` | Contains high-resolution simulations of cognitive transformation cases, focusing on **subjective restructuring**, **semantic compression**, and **value re-alignment** under neural modeling. Each example demonstrates how semantic logic circuits can actively redirect behavior and thought patterns. |
+| `Value`          | Houses foundational reasoning structures for **value prioritization**, **module activation decision-making**, and **neural cost-benefit modeling**. These files define how closed-loop semantic systems can simulate rational agency under energy and risk constraints.                                  |
 
 
 
