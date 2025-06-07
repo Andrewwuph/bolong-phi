@@ -1,7 +1,7 @@
 # 🧠 bolong-phi Semantic Reasoning Framework  
 ### A Modular System for Alignment, Identity Modeling, and Semantic Loop Closure  
 
-## 👤 Author: Brown Max (吳柏融)  
+## 👤 Author: Andrew (吳柏融)  
 I am a 19-year-old independent researcher with no institutional affiliation.  
 I built this system in three months—from scratch—under severe neurocognitive constraints (Tourette’s, OCD, emotional loop collapses), without medication, funding, or academic access.  
 This framework was not created for publication. It was created to survive—and evolved into a complete semantic operating structure.
@@ -22,11 +22,10 @@ Key features:
 ---
 
 📁 Project Files Overview
-| Folder / File    | Description                                                                                                                                                                                                                                                                                              |
-| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| `Transformative` | Contains high-resolution simulations of cognitive transformation cases, focusing on **subjective restructuring**, **semantic compression**, and **value re-alignment** under neural modeling. Each example demonstrates how semantic logic circuits can actively redirect behavior and thought patterns. |
-| `Value`          | Houses foundational reasoning structures for **value prioritization**, **module activation decision-making**, and **neural cost-benefit modeling**. These files define how closed-loop semantic systems can simulate rational agency under energy and risk constraints.                                  |
-
+| Folder / File          | Description                                                                                                                                                                                                                                                                                    |   |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | - |
+| `Transformative Value` | Contains high-resolution simulations of cognitive transformation cases. Focuses on **subjective restructuring**, **semantic compression**, and **value re-alignment** under neural modeling. Each case demonstrates how semantic logic circuits can redirect behavior and internal narratives. |   |
+| `cases`                | Contains multiple **Semantic Collapse Chains** illustrating how depression, democratic instability, and AI-induced stress emerge from recursive semantic misalignment. Each case maps specific failure patterns to brain-region simulations and semantic logic breakdowns.                     |   |
 
 
 
